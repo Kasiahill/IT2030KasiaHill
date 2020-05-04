@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EnrollmentApplication",
-    "\\EnrollmentApplication\\Views",
-    "\\MovieStore"
+    "\\MovieStore",
+    "\\MovieStore\\MovieStore",
+    "\\MovieStore\\MovieStore.Tests",
+    "\\MovieStore\\MovieStore.Tests\\Controllers",
+    "\\MovieStore\\MovieStore\\Data",
+    "\\MovieStore\\MovieStore\\obj"
   ],
+  "SelectedNode": "\\MovieStore\\MovieStore\\Models",
   "PreviewInSolutionExplorer": false
 }
